@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">eoccasion test</string>
+
+    <string name="please_enter_first_name">Please enter your first name</string>
+
+    <string name="please_enter_last_name">Please enter your last name</string>
+
+    <string name="please_enter_city">Please enter your city</string>
+
+    <string name="please_enter_phone">Please enter your phone</string>
+
+    <string name="please_enter_email">Please enter your email</string>
+
+    <string name="please_enter_password">Please enter your password</string>
+
+    <string name="please_enter_confirm_password">Please enter your confirm password</string>
+
+    <string name="please_enter_shop_name">Please enter your shop name</string>
+
+    <string name="please_enter_licence">Please enter your licence</string>
+
+    <string name="please_enter_name">Please enter a name</string>
+
+    <string name="please_enter_date">Please enter a date </string>
+
+
+
+
+</resources>
